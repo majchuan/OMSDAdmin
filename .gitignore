@@ -1,2 +1,6 @@
 #ignore all setting files
 appsettings.json
+$tf/
+bin/
+.vs/
+obj/
